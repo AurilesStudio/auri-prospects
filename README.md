@@ -1,6 +1,6 @@
-# Auri-Prospects 🛠️
+# Prospectauria 🛠️
 
-Auri-Prospects est un outil d’acquisition automatisé conçu pour extraire des prospects qualifiés depuis Google Maps (focus 92) et les gérer via un mini-CRM intégré.
+Prospectauria est un outil d’acquisition automatisé conçu pour extraire des prospects qualifiés depuis Google Maps (focus 92) et les gérer via un mini-CRM intégré.
 
 ## Fonctionnalités
 - **Scraper Google Maps** : Extraction ciblée (92).
@@ -18,8 +18,8 @@ Auri-Prospects est un outil d’acquisition automatisé conçu pour extraire des
 
 1. **Cloner le projet** :
    ```bash
-   git clone https://github.com/votre-compte/auri-prospects.git
-   cd auri-prospects
+   git clone https://github.com/votre-compte/Prospectauria.git
+   cd Prospectauria
    ```
 
 2. **Configuration** :
